@@ -1,6 +1,6 @@
 ## Interface: 80200
 ## Title: xToMax
-## Author: Grumpington
+## Author: Grumpington/Ihernglass
 ## Version: 1.0
 
 xToMax.lua
